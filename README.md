@@ -10,10 +10,10 @@ I eventually plan to port Quake Injector into this launcher as well,
 and with any luck, modify it to work with Doom engine games as well :)
 
 Roadmap:
-0.1- Singleplayer launcher released
-0.2 - Add support for other Quake games
-0.3 - Multiplayer functionality, Server browser/creator for all Quake games
-0.4 - Quake Injector ported into launcher
-0.5 - Doom engine games support (Possible project rename)
-0.6 - Modifiy ported Quake Injector code to work with Doom engine games via wad-archive
-Final - Polish
+- Singleplayer launcher released
+- Add support for other Quake games
+- Multiplayer functionality, Server browser/creator for all Quake games
+- Quake Injector ported into launcher
+- Doom engine games support (Possible project rename)
+- Modifiy ported Quake Injector code to work with Doom engine games via wad-archive
+- Inbuilt IRC server
