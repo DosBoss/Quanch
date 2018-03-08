@@ -7,7 +7,7 @@ Singleplayer and Multiplayer tabs will allow you to choose mods,
 tweak settings and browse/join online servers with ease!
 
 I eventually plan to port Quake Injector into this launcher as well, 
-and with any luck, modify it to work with Doom engine games as well :)
+and with any luck, modify it to work with Doom engine games :)
 
 Roadmap:
 - Singleplayer launcher released
